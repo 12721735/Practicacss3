@@ -3,6 +3,8 @@
 	background-color: blue;
 	color: yellow;
 	text-align: center;
+	font-family:PottaOne;
+	src:url(fuentes/PottaOne-Regular.ttf);
 }
 .bloque{
 	width: 400px;
@@ -16,9 +18,21 @@
 .p{
 	background-color: black;
 	color: yellow;
+	line-height: 120%;
 	display:inline;
-	line-height: 150%;
 }
 .hr1{
 	width: 600px;
+}
+.p2{
+	font-size: 150%;
+	font-family: 'Coda Caption', sans-serif;
+}
+.hr2{
+	background-color:blue;
+	height: 30px;
+}
+.hr3{
+	background-color:blue;
+	height: 30px;
 }
