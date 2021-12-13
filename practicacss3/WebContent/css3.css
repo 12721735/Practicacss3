@@ -13,13 +13,16 @@
 	display: inline-block;
 	background-color:blue;
 	color:white;
-	
 }
 .p{
 	background-color: black;
 	color: yellow;
 	line-height: 120%;
-	display:inline;
+	width: 600px;
+	display:inline-block;
+	position: relative;
+	bottom:30px;
+	
 }
 .hr1{
 	width: 600px;
@@ -35,4 +38,8 @@
 .hr3{
 	background-color:blue;
 	height: 30px;
+}
+.p3{
+	font-family: YuseiMagic;
+	src:url(fuentes/YuseiMagic-Regular.ttf);
 }
