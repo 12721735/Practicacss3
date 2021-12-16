@@ -33,6 +33,7 @@
 	display:inline;
 	position: relative;
 	top: 10px;
+	font-size: 150%;
 	
 }
 .hr1{
@@ -68,6 +69,7 @@
 	font-family: 'Yusei Magic', sans-serif;
 	font-weight:bold;
 	float:left;
+	font-size: 150%;
 }
 .conjunto{
 	display: inline-block;
